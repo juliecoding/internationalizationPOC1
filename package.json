@@ -1,0 +1,30 @@
+{
+  "name": "internationalizationpoc1",
+  "version": "1.0.0",
+  "description": "Making our app accessible to an international clientele",
+  "main": "app.js",
+  "dependencies": {
+    "angular-translate": "^2.15.1"
+  },
+  "devDependencies": {
+    "angular-translate": "^2.15.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliecoding/internationalizationPOC1.git"
+  },
+  "keywords": [
+    "internationalization",
+    "localization",
+    "angular-translate"
+  ],
+  "author": "Julie A. Kohler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliecoding/internationalizationPOC1/issues"
+  },
+  "homepage": "https://github.com/juliecoding/internationalizationPOC1#readme"
+}
